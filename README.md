@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Maru
-- 🚀 JS: React NextJs Redux MoleculerJs
+- 🚀 JS: ReactJS, NextJS, NodeJS, MoleculerJS
 
 ✨✨✨✨✨✨✨✨
